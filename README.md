@@ -103,7 +103,7 @@ Depoyu kendi çalışma alanınıza klonlayın:
 ```bash
 mkdir -p ~/up_week1_ws/src
 cd ~/up_week1_ws/src
-git clone REPO_URL up_week1
+git clone git@github.com:menosgrande00/under-pressure-week1.git up_week1
 ```
 
 REPO_URL yerine projenin Git bağlantısını yazın.

@@ -26,7 +26,7 @@ setup(
     zip_safe=True,
     maintainer='camm5',
     maintainer_email='camm5@todo.todo',
-    description='TODO: Package description',
+    description='Under Pressure AUV Week 1 ROS 2 simulation',
     license='Apache-2.0',
     extras_require={
         'test': [
