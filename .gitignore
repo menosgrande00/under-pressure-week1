@@ -1,0 +1,15 @@
+
+# ROS derleme çıktıları
+build/
+install/
+log/
+
+# Python geçici dosyaları
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Editör ve işletim sistemi dosyaları
+.vscode/
+.DS_Store
+Thumbs.db
